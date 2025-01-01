@@ -1,4 +1,4 @@
-chess game is game for entertainment purposes
+chess game is game for entertainment purposes.
 Used Technologies:-
 
   1.HTML5
